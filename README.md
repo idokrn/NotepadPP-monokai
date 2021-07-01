@@ -5,5 +5,5 @@ My theme for Notepad++ (based on monokai)
 - Added JSON style
 
 ### Installation Guid:
-Go to %appdata%\Notepad++\themes
-place .xml file and restart Notepad++
+Go to %appdata%\Notepad++\themes.  
+place .xml file and restart Notepad++.  
